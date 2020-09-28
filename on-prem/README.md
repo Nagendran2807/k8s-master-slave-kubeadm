@@ -13,10 +13,12 @@ Vagrant-Manager helps you manage all your virtual machines in one place directly
 $ brew cask install vagrant-manager
 
 ### clone github repo which contains vagrant file and shell scripts 
- git clone https://gitlab.com/crazy28/k8s-master-slave.git
+ git clone https://github.com/Nagendran2807/k8s-master-slave-kubeadm.git
+
+![image](../../master/images/install_master_slave_setup.png)
 
 ## Go to the repo path 
-cd k8s-master-slave
+cd k8s-master-slave-kubeadm/on-prem
 vagrant init 
 
 ### Check the status & run vagrant
