@@ -18,8 +18,7 @@ $ brew cask install vagrant-manager
 ![image](../../master/images/install_master_slave_setup.png)
 
 ## Go to the repo path 
-cd k8s-master-slave-kubeadm/on-prem
-vagrant init 
+cd k8s-master-slave-kubeadm/on-prem 
 
 ### Check the status & run vagrant
 vagrant status
