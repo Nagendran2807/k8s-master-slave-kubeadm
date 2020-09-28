@@ -22,6 +22,7 @@ cd k8s-master-slave-kubeadm/on-prem
 
 ### Check the status & run vagrant
 vagrant status
+
 vagrant up 
 
 ### Once machine provisioning done, you can login the machine's through ssh
