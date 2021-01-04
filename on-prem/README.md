@@ -36,4 +36,4 @@ ssh vagrant@127.0.0.1 -p2222 -i /Users/nmuthu036/vagrant-tutorial/.vagrant/machi
 
 
 #### vagrant commands ####
-https://gist.github.com/wpscholar/a49594e2e2b918f4d0c4
+https://futuredevops.blogspot.com/2021/01/vagrant.html
